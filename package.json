@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-base-special-ceil10",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Round a numeric value to the nearest power of 10 toward positive infinity.",
   "license": "Apache-2.0",
   "author": {
