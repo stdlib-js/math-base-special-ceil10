@@ -1,0 +1,32 @@
+{
+  "name": "@stdlib/math-base-special-ceil10",
+  "version": "0.0.0",
+  "description": "Round a numeric value to the nearest power of 10 toward positive infinity.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./mod.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/math-base-special-ceil10.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "mathematics",
+    "math",
+    "math.ceil",
+    "ceil",
+    "ceil10",
+    "round",
+    "nearest",
+    "number"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
