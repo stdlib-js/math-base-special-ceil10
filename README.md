@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import ceil10 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-ceil10@esm/index.mjs';
+import ceil10 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-ceil10@v0.1.0-esm/index.mjs';
 ```
 
 #### ceil10( x )
@@ -119,7 +119,7 @@ v = ceil10( NaN );
 <script type="module">
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
-import ceil10 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-ceil10@esm/index.mjs';
+import ceil10 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-ceil10@v0.1.0-esm/index.mjs';
 
 var x;
 var v;
