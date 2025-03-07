@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2025-03-07)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`73d8eb8`](https://github.com/stdlib-js/stdlib/commit/73d8eb85e52e10d7928ec64809752baa2b23e4cc) - **bench:** refactor random generation in `math/base/special/ceil*` [(#5834)](https://github.com/stdlib-js/stdlib/pull/5834) _(by Saurabh Singh)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Saurabh Singh
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.3.0">
 
 ## 0.3.0 (2024-07-28)
