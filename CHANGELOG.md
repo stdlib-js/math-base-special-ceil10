@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-30)
+## Unreleased (2025-08-27)
 
 <section class="commits">
 
@@ -12,6 +12,8 @@
 
 <details>
 
+-   [`e395239`](https://github.com/stdlib-js/stdlib/commit/e3952390cbd9e4a750d7628f87fc1cbe28468680) - **chore:** add structured package data for `math/base/special/ceil10` [(#7979)](https://github.com/stdlib-js/stdlib/pull/7979) _(by Nakul Krishnakumar, Athan Reines)_
+-   [`7add020`](https://github.com/stdlib-js/stdlib/commit/7add0201c13e56a0381926ccfd4073c84eaf2ed4) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
 -   [`dfddd73`](https://github.com/stdlib-js/stdlib/commit/dfddd7395392b17193734b0977955042cb85bb6b) - **docs:** replace manual `for` loop in examples [(#6608)](https://github.com/stdlib-js/stdlib/pull/6608) _(by Harsh, Athan Reines)_
 -   [`73d8eb8`](https://github.com/stdlib-js/stdlib/commit/73d8eb85e52e10d7928ec64809752baa2b23e4cc) - **bench:** refactor random generation in `math/base/special/ceil*` [(#5834)](https://github.com/stdlib-js/stdlib/pull/5834) _(by Saurabh Singh)_
 
@@ -25,10 +27,12 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Harsh
+-   Nakul Krishnakumar
+-   Philipp Burckhardt
 -   Saurabh Singh
 
 </section>
