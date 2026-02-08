@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import ceil10 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-ceil10@esm/index.mjs';
+import ceil10 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-ceil10@v0.3.1-esm/index.mjs';
 ```
 
 #### ceil10( x )
@@ -120,7 +120,7 @@ v = ceil10( NaN );
 
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import ceil10 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-ceil10@esm/index.mjs';
+import ceil10 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-ceil10@v0.3.1-esm/index.mjs';
 
 var opts = {
     'dtype': 'float64'
