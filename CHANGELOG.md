@@ -4,7 +4,19 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-09)
+## Unreleased (2026-06-25)
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#13113](https://github.com/stdlib-js/stdlib/issues/13113)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +24,7 @@
 
 <details>
 
+-   [`d9e748f`](https://github.com/stdlib-js/stdlib/commit/d9e748f4d726705ce57a627947a53b4b31c42b8b) - **chore:** fix EditorConfig lint errors [(#13115)](https://github.com/stdlib-js/stdlib/pull/13115) _(by NotFoundOvO)_
 -   [`c73c8b3`](https://github.com/stdlib-js/stdlib/commit/c73c8b39bd76529182ea2b3423c6f0feab434774) - **bench:** refactor to use string interpolation in `math/base/special` [(#11387)](https://github.com/stdlib-js/stdlib/pull/11387) _(by Karan Anand)_
 
 </details>
@@ -24,9 +37,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Karan Anand
+-   NotFoundOvO
 
 </section>
 
